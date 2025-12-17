@@ -1,4 +1,4 @@
-## Implicit Neural Representations for Surrogate Modeling in the Built Environment
+# Implicit Neural Representations for Surrogate Modeling in the Built Environment
 
 <p align="center">
 <img src="docs/figures/abst.png" alt="abst" width="80%"/>

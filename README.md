@@ -15,8 +15,7 @@ PerFORM/
 ├── src/
 |   |                           # dataset processing and visualization code
 │   ├── learning/               # models, modules, training utils
-│   ├── prism_morphology/       # morphology metrics 
-│   └── scripts/                # models, modules, training utils
+│   └── scripts/                
 │     ├── geo/                  # scripts for geometry models
 |     └── perf/                 # scripts for performance models
 ├── requirements.txt

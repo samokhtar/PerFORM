@@ -6,7 +6,7 @@
 
 This repository provides the supporting code for **PerFORM: Implicit Neural Representations for Surrogate Modeling in the Built Environment**, a framework that leverages INRs for the coupled representation and predictive modeling of computationally prohibitive and/or non-differentiable geometric and physical quantities for the built environment.
 
-#### Repository Contents
+### Repository Contents
 
 The repository contains the code for models, architectural modules and training utilities needed to train, test, evaluate and visualize the frameworks presented in the paper. It follows the following structure
 
@@ -25,7 +25,7 @@ PerFORM/
 
 - All **our code** lives under `src/`
 
-#### Framework Description
+### Framework Description
 
 PerFORM is an INR-based surrogate modeling framework for full flow field prediction in the built environment, with broader applicability to complex geometries. 
 
@@ -45,7 +45,7 @@ Beyond enabling the integration and acceleration of physics field inference for 
 <img src="docs/figures/fig10.png" alt="fig10" width="80%"/>
 </p>
 
-#### Citation
+### Citation
 
 When building on this research or using this code, please cite using the following:
 

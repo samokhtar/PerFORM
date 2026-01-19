@@ -50,12 +50,17 @@ Beyond enabling the integration and acceleration of physics field inference for 
 When building on this research or using this code, please cite using the following:
 
 ```
-@article{mokhtarImplicitNeuralRepresentations2025,
+@article{mokhtarImplicitNeuralRepresentations2026,
   title = {Implicit Neural Representations for Surrogate Modeling in the Built Environment},
   author = {Mokhtar, Sarah and Mueller, Caitlin},
-  date = {2025},
-  journaltitle = {...},
-  shortjournal = {...}
+  date = {2026},
+  journaltitle = {Automation in Construction},
+  shortjournal = {Automation in Construction},
+  volume = {182},
+  number = {0926--5805},
+  pages = {106744},
+  doi = {10.1016/j.autcon.2025.106744},
+  url = {https://www.sciencedirect.com/science/article/pii/S0926580525007848}
 }
 ```
 

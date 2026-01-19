@@ -55,7 +55,6 @@ When building on this research or using this code, please cite using the followi
   author = {Mokhtar, Sarah and Mueller, Caitlin},
   date = {2026},
   journaltitle = {Automation in Construction},
-  shortjournal = {Automation in Construction},
   volume = {182},
   number = {0926--5805},
   pages = {106744},
